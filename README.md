@@ -2,7 +2,7 @@
 
 ## 1. Informasi Proyek
 Nama: Sakifa Indira Putri <br>
-Email: sakifaindiraputri739@gmail.com
+Email: sakifaindiraputri739@gmail.com <br>
 ID Dicoding: kipa_123
 
 ## 2. Tentang Dataset
