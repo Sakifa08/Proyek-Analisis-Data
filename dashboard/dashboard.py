@@ -45,8 +45,8 @@ def sum_order (hour_df):
     return sum_order_items_df
 
 # Load dataset
-day_df = pd.read_csv("day_fix.csv")
-hour_df = pd.read_csv("hour_fix.csv")
+day_df = pd.read_csv("dashboard/day_fix.csv")
+hour_df = pd.read_csv("dashboard/hour_fix.csv")
 
 # Filter data
 day_df["dteday"] = pd.to_datetime(day_df["dteday"])
